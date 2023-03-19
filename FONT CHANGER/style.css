@@ -1,0 +1,31 @@
+
+.heading
+{
+    font-size:15px;
+    width:auto;
+    margin:auto;
+    box-shadow: 5px 8px 13px lightslategrey;
+}
+
+.note
+{
+    font-size: 15px;
+    color:lightskyblue;
+}
+
+.footer {
+    position: fixed;
+    color:rgb(188, 126, 126);
+    bottom: 0;
+    width: auto;
+    background-color: blanchedalmond;
+    line-height: normal;
+    text-align: center;
+    text-shadow: 5px 8px 10px rosybrown;
+}
+
+canvas {
+    border: 5px dashed royalblue;
+    border-radius: 25px;
+    box-shadow: 5px 8px 10px bisque;
+}
